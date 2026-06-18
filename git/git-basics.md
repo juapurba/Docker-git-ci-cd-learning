@@ -10,7 +10,7 @@ Git is a distributed version control system used to track changes in source code
 
 Used to copy a remote repository locally.
 
-![git_clone](../docker-git-cicd-learning/technical-docs/screenshots/git_clone.png)
+![git_clone](../technical-docs/screenshots/git_clone.png)
 
 
 ### git status
